@@ -1,0 +1,24 @@
+PODS:
+  - SKTargetAction (0.1.0)
+  - test1 (0.1.0)
+  - test2 (0.1.0)
+
+DEPENDENCIES:
+  - SKTargetAction
+  - test1
+  - test2
+
+SPEC REPOS:
+  https://github.com/kylinuranus/SKRepoPec.git:
+    - SKTargetAction
+    - test1
+    - test2
+
+SPEC CHECKSUMS:
+  SKTargetAction: 7d3a21e0dbc072e2392e011b20af05001de92b4c
+  test1: 077432aecacb4573b69bf054bae727b819526477
+  test2: 736a7d533ef5a5065c33bbbb2b6c9e9bac32265a
+
+PODFILE CHECKSUM: 5b67a761545d669b792de0641ba662dfb98d22e0
+
+COCOAPODS: 1.6.1

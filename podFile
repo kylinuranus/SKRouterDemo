@@ -1,0 +1,12 @@
+
+
+source ‘https://github.com/CocoaPods/Specs.git’
+source 'https://github.com/kylinuranus/SKRepoPec.git'
+
+target 'SKTargetAction' do 
+
+pod 'SKTargetAction'
+pod 'test1'
+pod 'test2' 
+
+end 
